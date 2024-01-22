@@ -1,1 +1,3 @@
-hellow
+public interface Shape{
+    void draw();
+}
