@@ -7,3 +7,9 @@ public class Rectangle implements Shape {
         System.out.println("Inside Rectangle::draw() method.");
     }
 }
+public class Square implements Shape {
+    @Override
+    public void draw() {
+        System.out.println("Inside Square::draw() method.");
+    }
+}
